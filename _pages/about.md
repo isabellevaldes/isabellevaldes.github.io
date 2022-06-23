@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate senior at the University of California, Berkeley. I study Political Science (Comparative Politics), Spanish Language and Literature, and Data Scienced. 
+I am an undergraduate senior at the University of California, Berkeley. I study Political Science (Comparative Politics), Spanish Language and Literature, and Data Science. 
 
 **Research Interests**
 
