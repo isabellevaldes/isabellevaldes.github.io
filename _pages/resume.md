@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a [PDF version of my resume]().
+You can download a [PDF version of my resume](https://github.com/isabellevaldes/isabellevaldes.github.io/blob/master/files/MyResume.pdf).
